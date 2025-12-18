@@ -35,3 +35,4 @@ Or run the CLI:
 ```bash
 uv run python -m csv_profiler.cli profile data/sample.csv --out-dir outputs
 ```
+![](asset/images.jpeg)
